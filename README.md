@@ -19,4 +19,4 @@ Open the rex.asm file for code
 ## How to Install and run the project
 Use DOSBox Portable to run the project.                                                                                                                                   
 Download the rex.asm file and run it using the following commands:                                                                                                       
-$ nasm rex.asm -o rex.com                                                                                                                                                  $ rex.com
+$nasm rex.asm -o rex.com                                                                                                                                                  $rex.com
